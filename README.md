@@ -7,4 +7,4 @@ In addition, I'm not a native English speaker,so please consider it when you rea
 
 [COPYRIGHT]
 
-All copyright is belong to Soongsil University OS Lab and this project was fifth subject of OS class.
+All copyright is belong to Soongsil University OS Lab and this project was third subject of OS class.
